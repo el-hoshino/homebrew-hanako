@@ -5,7 +5,7 @@
   desc "A random string generator, which is handy for generating a random password"
   homepage ""
   url "https://github.com/el-hoshino/hanako/releases/download/version%2F1.0.2/hanako.zip"
-  sha256 "892a44cbb8f5f012b6ed27d705c157241d6105cd"
+  sha256 "0b0aa587e7e8f6a04657d5839d75fad3d07cef8770671b2d30f7de43ce5b6db9"
    # depends_on "cmake" => :build
    def install
     # ENV.deparallelize  # if your formula fails when building in parallel
