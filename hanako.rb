@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook.html
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
- class hanako < Formula
+ class Hanako < Formula
   desc "A random string generator, which is handy for generating a random password"
   homepage ""
   url "https://github.com/el-hoshino/hanako/releases/download/version%2F1.0.2/hanako.zip"
