@@ -4,7 +4,7 @@ cask 'hanako' do
 
   url 'https://github.com/el-hoshino/hanako/releases/download/version%2F1.0.2/hanako.zip'
   name 'hanako'
-  homepage ''
+  homepage 'https://github.com/el-hoshino/hanako'
 
   binary 'hanako'
 end
