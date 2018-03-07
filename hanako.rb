@@ -6,5 +6,5 @@ cask 'hanako' do
   name 'hanako'
   homepage ''
 
-  app 'hanako'
+  binary 'hanako'
 end
