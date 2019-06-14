@@ -1,8 +1,8 @@
 cask 'hanako' do
   version '1.0.2'
-  sha256 '0b0aa587e7e8f6a04657d5839d75fad3d07cef8770671b2d30f7de43ce5b6db9'
+  sha256 '6a1ff3dc43e8e06458d7563f408a98a59846b9160e0877d9ab87665199a094ab'
 
-  url 'https://github.com/el-hoshino/hanako/releases/download/version%2F1.0.2/hanako.zip'
+  url 'https://github.com/el-hoshino/hanako/releases/download/v1.0.3/hanako.zip'
   name 'hanako'
   homepage 'https://github.com/el-hoshino/hanako'
 
