@@ -1,8 +1,8 @@
  class Hanako < Formula
   desc "Hanako is a command-line tool for macOS to generate a random password"
   homepage "https://github.com/el-hoshino/hanako"
-  url "https://github.com/el-hoshino/hanako/archive/version/1.0.2.tar.gz"
-  sha256 "d55dd218e980307fb1be13a98baf17f44bf4fd0ca7327bfac1b7109abcc6ea95"
+  url "https://github.com/el-hoshino/hanako/archive/v1.0.3.tar.gz"
+  sha256 "cd79c8a71df62740abed6da360414a7d104165805018525d7b0e9758a8dd63b1"
    def install
     system "xcodebuild"
     bin.install "build/Release/hanako"
